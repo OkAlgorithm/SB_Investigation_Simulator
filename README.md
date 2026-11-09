@@ -118,3 +118,4 @@ This standalone edition contains the course and assessment from published source
 
 The dependency lockfile is included for reproducible installation. The archive intentionally excludes `node_modules/`, generated `dist/`, hosting identities and credentials.
 # SB_Investigation_Simulator
+# SB_Investigation_Simulator
